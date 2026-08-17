@@ -4,6 +4,14 @@ Aplicação web para cálculo e registro de IMC (Índice de Massa Corporal), des
 
 ---
 
+## 📄 Documentação
+
+| Documento | Descrição |
+|---|---|
+| [requisitos.md](./requisitos.md) | Levantamento completo de requisitos funcionais, não funcionais, casos de uso e modelo de dados |
+
+---
+
 ## 🖥️ Demonstração
 
 > Acesse localmente em: **http://localhost:3000**
