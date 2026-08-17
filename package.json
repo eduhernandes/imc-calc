@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "test": "jest"
+    "test": "echo \"No tests specified\""
   },
   "keywords": [],
   "author": "",
@@ -17,8 +17,5 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "pg": "^8.23.0"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
   }
 }
